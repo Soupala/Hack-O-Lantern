@@ -5,8 +5,6 @@ This idea started as a holiday workshop.  We did some basic fun stuff with the k
 
 --------------
 
-*Datasheet for the PIR sensor is included*
-
 **Notes**
 
 - Datasheet for the PIR sensor is included.
